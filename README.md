@@ -1,4 +1,4 @@
-# secr-ai
+# SECR.AI
 **SECR.AI - Take home assessment**
 This code has two file lambda_function.py and csvprocessor.py that processes the csv from s3 bucket and populates the end result in a DynamoDB
 
