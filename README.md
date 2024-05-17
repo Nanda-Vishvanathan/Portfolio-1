@@ -1,6 +1,3 @@
-# SECR.AI
-**SECR.AI - Take home assessment**
-
 This code has two file lambda_function.py and csv_processor.py that processes the csv from s3 bucket and populates the end result in a DynamoDB
 
 To clone, please use the following command:
