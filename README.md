@@ -2,7 +2,7 @@ This code has two file lambda_function.py and csv_processor.py that processes th
 
 To clone, please use the following command:
 
-**git clone https://github.com/Nanda-Vishvanathan/secr-ai.git**
+**git clone https://github.com/Nanda-Vishvanathan/Portfolio-1.git**
 
 To upload the code, please zip the code and upload it or via s3.
 
